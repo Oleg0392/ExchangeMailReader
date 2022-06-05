@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<appProperties>
+	<parrentFolderPath>C:/Temp/</parrentFolderPath>
+	<exchangeVersion>0</exchangeVersion>
+	<fileExtension>.html</fileExtension>
+	<webCredentialsType>2</webCredentialsType>
+	<username>KHUSAINOV00051_EXT</username>
+	<password>olG310100</password>
+	<domain>hq</domain>
+	<serviceUrl>https://mail.mmk.ru/EWS/Exchange.asmx</serviceUrl>
+	<userEmailAddress>khusainov.om@mmk.ru</userEmailAddress>
+	<viewPageSize>1</viewPageSize>
+	<LogStringResources>
+		<LogExceptionMessage1>Exception while enumerating results:</LogExceptionMessage1>
+		<LogFileWritingComplete>Message body is writted in file.</LogFileWritingComplete>
+	</LogStringResources>
+</appProperties>

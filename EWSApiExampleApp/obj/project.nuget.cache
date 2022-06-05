@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "Pcx/g6LZqaZs0tBPqRPa8VlDi3rL84MgXqugdsnOUw6wEho7y3XG+iK22pzHzcKKtQvavKSheYVX3jxYKS31+Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Oleg\\source\\repos\\EWSApiExampleApp\\EWSApiExampleApp\\EWSApiExampleApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Oleg\\.nuget\\packages\\documentformat.openxml\\2.16.0\\documentformat.openxml.2.16.0.nupkg.sha512",
+    "C:\\Users\\Oleg\\.nuget\\packages\\microsoft.exchange.webservices\\2.2.0\\microsoft.exchange.webservices.2.2.0.nupkg.sha512",
+    "C:\\Users\\Oleg\\.nuget\\packages\\system.io.packaging\\4.7.0\\system.io.packaging.4.7.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Пакет \"Microsoft.Exchange.WebServices 2.2.0\" был восстановлен с помощью \".NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8\", а не целевой платформы проекта \"net5.0\". Этот пакет может быть не полностью совместим с вашим проектом.",
+      "libraryId": "Microsoft.Exchange.WebServices",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    }
+  ]
+}
